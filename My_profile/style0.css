@@ -66,12 +66,10 @@ a{
 .fa-linkedin:hover {
     color: rgb(0, 119, 181);
 }
-.fa-square-facebook:hover{
-	color: rgb(24, 119, 242);
+.fa-square-github:hover{
+	color: rgb(0, 3, 51);
 }
-.fa-square-x-twitter:hover{
-	color: black;
-}
+
 @media (max-width: 960px) {
   .container {
     width: 700px;
